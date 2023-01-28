@@ -32,14 +32,14 @@ header {
 }
 
 .my_picture {
-    margin-left: 80%;
+    margin-left: 70%;
     border-radius: 50%;
     width: 140px;
     height: 130px;
     overflow: hidden;
 }
 .Description{
-    margin-left: 40%;
+    margin-left: 60%;
     margin-top: -15%;
 }   
 h3{
